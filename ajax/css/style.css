@@ -1,0 +1,14 @@
+form{
+    width: 500px;
+}
+.form-control-feedback{
+    display: none;
+    width: 100%;
+    height: 30px;
+    position: fixed;
+}
+.form-control-feedback:active{
+    width: 100%;
+    height: 30px;
+    position: fixed;
+}
